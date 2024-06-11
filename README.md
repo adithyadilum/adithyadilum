@@ -1,2 +1,2 @@
-# dilum-20
+# adithyadilum
 Config files for my GitHub profile.
